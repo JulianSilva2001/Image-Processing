@@ -1,6 +1,6 @@
 # Image Processing Experiments
 
-Welcome to the repository for my image processing experiments! This project showcases various image processing techniques applied to grayscale and color images using OpenCV and Matplotlib in Python.
+This project showcases various image processing techniques applied to grayscale and color images using OpenCV and Matplotlib in Python.
 
 ## Table of Contents
 1. [Setup](#setup)
@@ -14,8 +14,6 @@ Welcome to the repository for my image processing experiments! This project show
    - [Averaging Using cv.filter2D](#averaging-using-cvfilter2d)
    - [Sobel Filtering Using cv.filter2D](#sobel-filtering-using-cvfilter2d)
 3. [Results](#results)
-4. [License](#license)
-
 ## Setup
 
 To run these experiments, you'll need Python with the following libraries:
